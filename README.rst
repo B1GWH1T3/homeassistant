@@ -12,3 +12,4 @@ services:
       networks:
         - host
       restart: unless-stopped
+
