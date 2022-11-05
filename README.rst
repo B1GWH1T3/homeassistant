@@ -1,3 +1,5 @@
+```yaml
+---
 version: "2.1"
 services:
   homeassistant:
@@ -12,4 +14,4 @@ services:
       networks:
         - host
       restart: unless-stopped
-
+```
